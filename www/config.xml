@@ -12,7 +12,6 @@ Con la gallery guarda il prodotto d'arredo da te selezionato nei minimi dettagli
         Interlinea
     </author>
     
-	<gap:plugin name="com.sharinglabs.cordova.plugin.cache" source="npm"/>
 	<gap:plugin name="org.apache.cordova.device" />
 	<gap:plugin name="org.apache.cordova.network-information" />
 	<gap:plugin name="org.apache.cordova.inappbrowser" source="npm" />
